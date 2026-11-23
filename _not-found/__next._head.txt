@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1872,[],"ViewportBoundary"]
+3:I[1872,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[2569,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"巴黎档案：王楚钦 / 孙颖莎混双金牌之路"}],["$","meta","1",{"name":"description","content":"一份从北京出发、抵达巴黎并封存混双首金记忆的互动档案袋。"}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IdWeWU4es8lORMyr0QSmB"}
